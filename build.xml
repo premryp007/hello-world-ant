@@ -1,4 +1,4 @@
-<project name="hello-world-ant" basedir="." default="main">
+<project name="hello-world-ant" basedir="/var/www/html/hello-world-ant" default="main">
  
   <!-- Ant properties -->
   <property name="src.dir"     value="src"/>
